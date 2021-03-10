@@ -1,4 +1,5 @@
 # Restaurante Backend
+>jaime reina duran
 <img alt="logo" width="80px" src="public/favicon.png"> 
 Este repositorio aloja el backend del proyecto "Restaurante Full Stack".
 Este backend consiste en una API REST desarrollada con NodeJS. Esta API trabaja sobre una base de datos MongoDB, donde podremos realizar operaciones sobre dos colecciones: una de platos, y otra de cocineros.
